@@ -8,7 +8,8 @@ To download the movement caffe model: https://drive.google.com/file/d/15PROIfmF3
 
 ### Output
 
-![](https://github.com/a-mohsen/DanceExtractor/blob/master/image.png?raw=true =200x400)
+<img src="https://github.com/a-mohsen/DanceExtractor/blob/master/image.png?raw=true" width="200" height="400" />
+
 ![](https://github.com/a-mohsen/DanceExtractor/blob/master/image.gif?raw=true)
 
 Thanks to PyImageSearch & LearnOpenCV for their great tutorials
